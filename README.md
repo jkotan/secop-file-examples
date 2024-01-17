@@ -1,1 +1,1 @@
-# secop-file-examples
+# SECoP file examples
